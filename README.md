@@ -23,9 +23,7 @@ A sleek, interactive expense tracking web app built with **HTML**, **Bootstrap**
 
 ---
 
-🧪 Demo
 
-> Add a live link if hosted (e.g., GitHub Pages, Netlify)
 
 ---
 
