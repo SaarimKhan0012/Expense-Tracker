@@ -32,6 +32,7 @@ A sleek, interactive expense tracking web app built with **HTML**, **Bootstrap**
 │ ├── jquery/
 ├── images/
 │ └── pay.png
+| └── view.png
 └── README.md
 
 
@@ -48,7 +49,7 @@ A sleek, interactive expense tracking web app built with **HTML**, **Bootstrap**
 
 
 ## 📸 Screenshot
-*(Add your screenshot here by dragging the image into README)*
+[Todo List App Preview](images/view.png)
 
 ---
 
