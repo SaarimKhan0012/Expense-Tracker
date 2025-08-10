@@ -43,6 +43,9 @@ A sleek, interactive expense tracking web app built with **HTML**, **Bootstrap**
    - **Option 2:** Right-click → Open with → Your preferred browser
 4. Your Expense Tracker should now be running locally.
 
+## Live Demo
+ https://saarimkhan0012.github.io/Expense-Tracker/
+
 
 ## 📸 Screenshot
 *(Add your screenshot here by dragging the image into README)*
